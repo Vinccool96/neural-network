@@ -4,28 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="950bf5a9-fb61-479d-8dcc-f1e86d1c88de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neural-network-contrib/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neural-network-contrib/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neural-network-contrib/src/main/java/io/github/vinccool96/neural/network/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neural-network-core/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neural-network-core/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/neural-network-core/src/main/java/io/github/vinccool96/neural/network/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    <list default="true" id="950bf5a9-fb61-479d-8dcc-f1e86d1c88de" name="Changes" comment="Start">
+      <change afterPath="$PROJECT_DIR$/neural-network-contrib/src/main/java/io/github/vinccool96/neural/network/contrib/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neural-network-contrib/src/main/kotlin/io/github/vinccool96/neural/network/contrib/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neural-network-contrib/src/test/kotlin/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neural-network-contrib/src/test/resources/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neural-network-core/src/main/kotlin/io/github/vinccool96/neural/network/core/Neuron.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neural-network-core/src/main/resources/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/neural-network-core/src/test/resources/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/io/github/vinccool96/neural/network/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +67,13 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -93,18 +91,25 @@
     "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/vgirard/Documents/IdeaProjects/neuroph-git",
+    "last_opened_file_path": "C:/Users/vgirard/Documents/IdeaProjects/neural-network/neural-network-contrib/src/main/java/io/github/vinccool96/neural/network/contrib",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\vgirard\Documents\IdeaProjects\neural-network\neural-network-contrib\src\main\kotlin" />
+      <recent name="C:\Users\vgirard\Documents\IdeaProjects\neural-network\neural-network-contrib\src\main\java\io\github\vinccool96\neural\network\contrib" />
+      <recent name="C:\Users\vgirard\Documents\IdeaProjects\neural-network\neural-network-contrib\src\main\kotlin\io\github\vinccool96\neural\network\contrib" />
+      <recent name="C:\Users\vgirard\Documents\IdeaProjects\neural-network\neural-network-contrib\src\test\resources" />
+      <recent name="C:\Users\vgirard\Documents\IdeaProjects\neural-network\neural-network-contrib\src\test\kotlin" />
+      <recent name="C:\Users\vgirard\Documents\IdeaProjects\neural-network\src\test\resources" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -115,11 +120,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684940662882</updated>
-      <workItem from="1684940663972" duration="2295000" />
+      <workItem from="1684940663972" duration="5461000" />
     </task>
+    <task id="LOCAL-00001" summary="Start">
+      <created>1684944188813</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684944188813</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start" />
   </component>
 </project>
